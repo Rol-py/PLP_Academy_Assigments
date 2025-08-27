@@ -1,1 +1,1 @@
-# PLP_Academy_Assigments
+# PLP_Academy_Assignments
